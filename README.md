@@ -1,16 +1,20 @@
-## Hi there 👋
+## Kevin Kürten
 
-<!--
-**Kev1nOS/Kev1nOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Student
+📫 **Email:** kurtekev@fit.cvut.cz
+---
 
-Here are some ideas to get you started:
+### 🔬 Research & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Representations & Understanding:** Mechanistic Interpretability, Contrastive Learning, Neural Networks
+- **Applied ML:** Recommender Systems, Deep Learning
+- **Reinforcement Learning & Embodied AI:** Model-Based Reinforcement Learning, Robotics
+
+---
+
+### 🛠️ What I'm Doing
+
+- 🔭 **Current Focus:** Recommender Systems and Model-Based Reinforcement Learning
+- 🌱 **Learning & Exploring:** Mechanistic Interpretability & Robotics
+- 👯 **Collaborations:** Open to research discussions in ML
+- 📫 **Contact:** kurtekev@fit.cvut.cz
